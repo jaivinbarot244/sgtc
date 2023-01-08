@@ -1,0 +1,36 @@
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (-webkit-min-device-pixel-ratio:1){
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:1){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:1){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:834px) and (max-device-width:1112px) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:834px) and (max-device-width:834px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:1112px) and (max-device-width:1112px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:1024px) and (max-device-width:1366px) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:1024px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
+@media only screen and (min-device-width:1366px) and (max-device-width:1366px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2){    
+    .commited-wrap, .vission-mission-parallex-sect, .ocean-freight-parallex-sect{-webkit-background-attachment:initial;-moz-background-attachment:initial;-o-background-attachment:initial;background-size: inherit;}
+}
