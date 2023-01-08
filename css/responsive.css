@@ -1,0 +1,275 @@
+@media screen and (min-width:1600px) {
+    .service-sect .para-tri-pcs:before{top: 40%;border-top: 21vh solid #fff}
+    .service-sect .para-tri-pcs:after{bottom: -8%;border-top: 15vh solid transparent;border-bottom: 5vh solid transparent;border-right: 51vh solid #d5b881}
+    .para-tri-pcs-down:after{bottom: -4%;border-top: 14vh solid transparent}
+    .ocean-freight-parallex-sect{height: 70vh}
+    .value-banner .commited-blk{top: 250px}
+}
+
+@media screen and (min-width:1400px) {
+	
+}
+@media screen and (max-width:1300px) {
+	.client-ttl {font-size: 26px;}
+	.certification-txt p{font-size: 15px;}
+    .value-banner .hermes-txt{font-size: 90px;top: 35px}
+}
+@media screen and (max-width:1200px) {
+	.navbar-right{width: 75%;}
+	.transport-wrap{width: 100%;}
+	.transport-sec-blk {width: 61%;}
+	.heading2 {font-size: 34px;line-height: 40px;}
+	.contact-left{padding: 60px 30px;}
+	
+    .client-blk {width: 83%;}
+	.service-wrap:before{right: -47px;top: -140px;}
+	.service-sect .para-tri-pcs{display: none}
+	.group-left{width: 30%;margin: 0 20px 0 0}
+	.group-right{width: 65%}
+    .value-banner .hermes-txt{font-size: 90px;top: 25px}
+    .value-banner .commited-blk{top: 100px}
+}
+@media screen and (max-width:1200px) {
+	.contact-inner-blk{width: 45%}
+	.contact-form-right{padding: 30px 40px}
+}
+
+@media screen and (max-width:1023px) {
+	.banner-heading {font-size: 45px;line-height: 45px;}
+	.nav-wrapper{display: none;}
+	.navbar-right {width: auto;right: 25px;top: -10px;position: relative;}
+	.transport-sec-blk{width: 100%;}
+	.transport-arrow3{left: 58%;bottom: 5%;}
+	.transport-first-left {width: 100%;margin-bottom: 60px;}
+	.transport-first-blk{flex-wrap: wrap;margin: 0 0 80px;}
+	.transport-first-right {width: 60%;margin: 0 auto;}
+	.number-speak-txt br{display: none;}
+	.footer-link li{padding-right: 10px;font-size: 14px;}
+	.copyright-txt{font-size: 14px;}
+	.contact-left {width: 70%;margin: 0 auto;padding: 30px;}
+	.contact-right{width: 100%;margin-bottom: 40px;}
+	.contact-blk{flex-direction: column-reverse;}
+	.get-in-touch-wrap .heading2 br{display: none;}
+	.client-wrap {flex-wrap: wrap;text-align: center}
+	.client-ttl{margin: 0 auto}
+	.client-blk {width: 100%;}
+	.client-slider .slick-dots{bottom: -12px;text-align: center;}
+	.client-slider .slick-dots li button:before{display: none;}
+	.client-sect{padding: 30px 0;}
+	.hermes-txt {font-size: 160px;line-height: 150px;}
+    .industry-txtblk {width: 100%;}
+    .industry-txtblk p br{display: none;}
+    .industry-slider {margin: 115px 0 0;}
+	.industry-slider .slick-next{background-size: 75%;}
+	.service-wrap:before{display: none;}
+	.service-sect:before{display: none;}
+	.service-sect{background: #00467a;margin: 0 0 30px;}
+	.service-sect{padding: 60px 0;}
+	.service-txtblk {padding: 0;}
+    .service-txtblk p br{display: none;}
+    .service-info{width: 75%;}
+    .menu-icon{display: block;}
+    .inner-content-blk {width: 100%;}
+
+    .certification-innerblk {width: 31%;}
+    .certification-txt{padding: 15px;}
+    .certification-wrap .heading2 br, .cross-trade-wrap .heading2 br, .air-freight-wrap .heading2 br, .ground-transportation-wrap .heading2 br, .air-charter-wrap .heading2 br{display: none;}
+    .cross-trade-left {width: 100%;padding: 0;margin: 0 0 30px;}
+	.cross-trade-right {width: 60%;margin: 0 auto;}
+	.cross-trade-blk, .custom-brokerage-blk, .ground-transportation-blk, .air-charter-blk, .air-freight-blk{margin: 20px 0}
+
+	.custom-brokerage-left{width: 100%;padding: 0;margin: 0 0 30px;}
+	.custom-brokerage-right{width: 60%;margin: 0 auto;}
+
+	.ground-transportation-left{width: 100%;padding: 0;margin: 0 0 30px;}
+	.ground-transportation-right{width: 60%;margin: 0 auto;}
+
+	.air-charter-left{width: 100%;padding: 0;margin: 0 0 30px;}
+	.air-charter-right{width: 60%;margin: 0 auto;}
+
+	.air-freight-left{width: 100%;padding: 0;margin: 0 0 30px;}
+	.air-freight-right{width: 60%;margin: 0 auto;}
+	
+	.leftblk{width: 100%;padding: 0;margin: 0 0 30px;}
+	.rightblk{width: 60%;margin: 0 auto;}
+	
+	.mob-row-reverse{flex-direction: column-reverse}
+	.commited-sect .para-tri-pcs, .commited-sect .para-tri-pcs-down{display: none}
+	.form-sect{padding-top: 50px}
+	.counter-txt{font-size: 16px}
+	.counter-num, .management-name{font-size: 18px}
+	.real-estate-blk{clip-path: none}
+	.management-innerblk{width: 32%}
+	.air-freight-left .list-blk{padding: 0 20px}
+	.contact-form-left, .contact-form-right{width: 100%}
+	.contact-form-left img{height: 400px;object-fit: cover}
+	.valuesblk{width: 90%;margin: 0 auto 50px}
+    .service-sect .read-btn-blk a, .service-sect .read-more-btn, .service-sect .read-more-btn .icon-right{color: #fff}
+    .service-sect .read-more-btn:before, .service-sect .read-more-btn .icon-right{border-color: #fff}
+}
+@media screen and (max-width:767px) {
+	.navbar-brand{width: 110px;}
+    .navbar-brand:before {border-top: 20px solid white;border-left: 55px solid transparent;border-right: 55px solid transparent;bottom: -20px}
+	.transport-first-left .heading2 br{display: none;}
+	.heading2 {font-size: 28px;line-height: 32px;}
+	.counter-txt {font-size: 16px;}
+    .counter-num {font-size: 20px;}
+    .footer-link{justify-content: center;}
+    .copyright-txt {text-align: center;margin: 0 0 10px;}
+	.social-link {justify-content: center;margin: 0 0 20px}
+	.footer-link li {padding-right: 40px;}
+    .heading3 {font-size: 22px;line-height: 26px;}
+    .form-wrap .heading2 {font-size: 26px;line-height: 30px;}
+    .testimonial-blk{flex-wrap: wrap;}
+    .testimonial-innerblk{width: 100%;margin: 0 0 40px;}
+    .testimonial-innerblk:last-child{margin-bottom: 0;}
+    .testimonial-ttl-blk {padding-left: 0;}
+	.testimonial-ttl-blk .heading2 br{display: none;}
+	.hermes-txt {font-size: 130px;line-height: 120px;}
+	.commited-blk:before, .commited-blk:after{display: none;}
+	.commited-wrap{height:120vh;}
+	.commited-wrap:before, .commited-wrap:after{display: none;}
+	.commited-txt {font-size: 40px;line-height: 44px;}
+    .common-padding{padding: 50px 0;margin: 0}
+    .service-innerblk {width: 100%;margin-bottom: 50px;}
+    .service-innerblk:nth-child(2n+2){top: auto;}
+    .service-arrow2{left: 53%;top: 2%;}
+    .testimonial-arrow3{left: 55%;bottom: 5%;}
+    .form-arrow1{left: 52%;top: 3%;}
+    .form-arrow2{left: 61%;bottom: 2%;}
+    .certification-innerblk {width: 45%;}
+	.ocean-freight-parallex-sect:before{display: none}
+	.vission-mission-parallex-sect{padding: 50px 0}
+	.inner-banner-sect .banner-heading{font-size: 30px;line-height: 1.2}
+	.inner-banner-sect{height: 80vh}
+	body{font-size: 14px}
+	.management-innerblk{width: 45%}
+	.industrywrap .flex-between .leftblk, .industrywrap .flex-between .rightblk{width: 100%;margin: 0}
+	.industrywrap .flex-between:nth-child(odd) .rightblk, .industrywrap .flex-between:nth-child(even) .leftblk{padding: 0}
+	.service-info{width: 80%;top: 40px}
+	.industry-infoblk{min-height: inherit;padding: 20px}
+	.testimonial-innerblk{padding: 15px 30px}
+	.testimonial-innerblk:before{width: 6px}
+	.contact-left{padding: 15px;width: 100%}
+	.transportation-innerblk{width: 100%;margin-bottom: 40px}
+	.transportation-innerblk:nth-child(2), .transportation-innerblk:nth-child(3), .transportation-innerblk:nth-child(4){margin-left: 0}
+	.transportation-num{font-size: 40px;width: 50px}
+	.transportation-txtblk p, .square-feet-txt{font-size: 16px;line-height: 1.5}
+	.transportation-txtblk p:first-letter{font-size: 30px;line-height: 1.5}
+	.heading2 br{display: none;}
+	.group-left, .chairman-left{width: 320px;margin: 0 0 20px}
+	.group-right, .chairman-right{width: 100%}
+	.real-estate-blk .group-blk{flex-direction: inherit}
+	.group-mob-img{display: block}
+	.real-estate-blk{background: #d5b881;padding-bottom: 0}
+	.hermes-group-info-sect, .real-estate-blk .group-img{margin: 0}
+	.real-estate{padding-bottom: 0}
+	.social-link a{width: 30px;height: 30px;font-size: 15px}
+	.chairman-blk{margin: 50px 0 0}
+	.list-blk li{margin-bottom: 15px}
+	.ocean-freight-parallex-sect{height: auto;padding: 50px 0}
+	.ocean-parallex-txt p{font-size: 16px;line-height: 1.5}
+	.ocean-parallex-txt{width: 90%}
+	.inner-banner-sect .banner-txtblk{left: 0;right: 0;padding: 20px}
+	.csr-sect .management-innerblk + .management-innerblk{margin: 0 0 40px 20px}
+	.contact-inner-blk{width: 100%}
+	.contact-info a{word-break: break-all}
+	.contact-wrap{margin: 50px 0 0}
+    .management-innerblk + .management-innerblk{margin: 0 20px 40px}
+    .csrhelthimg-blk{width: 100%}
+    .footer-blk .heading{font-size: 14px}
+    .footer-blk .heading-blk{margin: 0 0 10px}
+    .footer-blk{text-align: center}
+    .client-slider{padding: 0}
+    .ocean-freight-blk{top: auto}
+    .value-banner .hermes-txt{font-size: 60px;top: -10px}
+    .contact-wrap + .contact-wrap{margin-top: 0}
+}
+@media screen and (max-width:600px) {
+	.video-sect{height: 80vh;}
+	.video-wrapper{height: 100%;}
+	.navbar-brand{width: 110px;}
+	.banner-heading {font-size: 32px;line-height: 34px;}
+	.banner-heading span {font-size: 32px;line-height: 36px;}
+	.video-sect .btn {display: block;margin: 0 auto 20px;width: 80%;font-size: 14px;}
+	.video-sect .btn-blk .btn + .btn {margin-left: auto;}
+/*	.banner-txtblk{top: 28%;}*/
+	.heading2 {font-size: 23px;line-height: 28px;}
+	.heading {font-size: 16px;}
+	.read-more-btn{font-size: 16px;}
+	.read-more-btn:before{width: 70px;height: 70px;top: -24px;}
+	.number-speak-txt {font-size: 22px;line-height: 26px;}
+	.transport-arrow3 {left: 52%;bottom: 3%;}
+	.footer-link{flex-wrap: wrap;}
+	.footer-wrap {padding: 30px 0;}
+	.contact-left {width: 100%;}
+    .form-wrap .heading2 {font-size: 23px;line-height: 27px;}
+    .commited-wrap{height:100vh;}
+    .industry-txtblk .heading2 br{display: none;}
+    .industry-txtblk p{margin-bottom: 0;}
+    .industry-slider {margin: 80px 0 0;}
+	.industry-slider .slick-next{top: -22%;}
+	.service-ttl {font-size: 26px;margin-bottom: 10px}
+    .service-info{top: 30px;}
+    .cross-trade-right, .custom-brokerage-right, .ground-transportation-right, .air-charter-right, .air-freight-right, .rightblk {width: 100%;}
+	.common-padding2, .client-ttl{padding: 30px 0}
+	.counter-innerblk{width: 100%;margin-bottom: 30px}
+	.exhibition-txtblk{margin: 0}
+	.csr-sect .management-innerblk + .management-innerblk{margin: 0 0 40px}
+	.csr-sect .management-innerblk{width: 100%}
+}
+@media screen and (max-width:540px) {
+	.counter-innerblk{width: 100%;margin-bottom: 30px;}
+	.footer-link li {padding-right: 30px;font-size: 14px;}
+	.footer-link li:before{top: 1px;right: 13px;}
+	.heading3 {font-size: 20px;line-height: 1.5;}
+	.hermes-txt {font-size: 80px;line-height: 80px;}
+	.commited-txt {font-size: 26px;line-height: 30px;}
+	.commited-wrap{height:70vh;}
+	.certification-innerblk {width: 90%;}
+	.certification-txt{min-height: inherit}
+	.certification-img{padding: 10px;}
+	.management-innerblk{width: 100%}
+    .management-innerblk + .management-innerblk{margin: 0 0 40px}
+	.service-info{position: static;width: 100%;padding: 10px}
+	.certification-blk{margin: 50px 0 0}
+	.contact-form-left img{height: auto}
+	.contact-form-right{padding: 20px}
+    .copyright-txt{font-size: 12px}
+    .client-slide{width: 92%}
+    .value-banner .hermes-txt{font-size: 60px;top: 0px}
+    .contact-inner-blk{padding: 20px 10px}
+    .contact-inner-blk .heading3{margin: 0 0 15px}
+}
+@media screen and (max-width:480px) {
+	.banner-heading {font-size: 26px;line-height: 26px;}
+	.banner-heading span {font-size: 26px;line-height: 26px;}
+	.counter-num {font-size: 18px;}
+	.footer-link li:nth-child(2):before{display: none;}
+	.copyright-txt {font-size: 12px;}
+	.industry-slider .slick-slide:nth-child(even) .industry-slideblk{margin-top: 0}
+	.industry-slideblk{width: 80%;margin: 0 auto;}
+	.industry-slider .slick-next {top: -26%;}
+	.commited-wrap{height:60vh;}
+	.inner-banner-sect .banner-heading{font-size: 22px;line-height: 1.2}
+	.hermes-txt {font-size: 60px;line-height: 60px;}
+	.commited-txt {font-size: 22px;line-height: 26px;}
+	.transportation-num{font-size: 30px;width: 40px}
+	.transportation-txtblk p{font-size: 15px}
+	.transportation-txtblk p:first-letter{font-size: 26px;}
+	.list-blk li{font-size: 14px}
+	.valuesblk{padding: 20px;text-align: center}
+	.valuesblk:before{transform: skew(0deg)}
+    .csrhelthimgblk3, .csrhelthimgblk1, .csrhelthimgblk2 img, .csrhelthimgblk2 img:nth-child(2){width: 100%}
+    .csrhelthimg-blk img{margin: 10px 0}
+    .csrhelthimgblk2{flex-wrap: wrap}
+    .locationblk{position: static;margin-bottom: 10px}
+    .locationblk span{text-align: left}
+    .form-check.form-check-inline{width: 100%}
+    .footer-blk .heading br{display: block}
+    .value-banner .hermes-txt{font-size: 50px;top: 20px}
+}
+@media screen and (max-width:360px) {
+	.footer-link li{width: 100%;text-align: center;padding: 0}
+	.footer-link li:before{display: none}
+}
